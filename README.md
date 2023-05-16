@@ -30,12 +30,22 @@
 <img src="icons/Figma.svg" alt="figma"> 
 <img src="icons/VSC.svg" alt="VSCode">
 
+---
+<br/>
+
 <a target="_blank" rel="noopener noreferrer" href="https://www.codewars.com/users/vladzinovev"><img src="https://www.codewars.com/users/vladzinovev/badges/large" alt="codewars profile"></a>
 
----
 
+---
 
 ### CONTACTS:
 
 SITE: https://vladzinovev.github.io/portfolio/ <br/>
 EMAIL: vladozdeveloper@gmail.com
+
+---
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladzinovev&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
