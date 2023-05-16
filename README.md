@@ -2,33 +2,11 @@
 
 ### MAIN STACK:
 
-<img src="icons/TypeScript.svg" alt="ts"> 
-<img src="icons/React.svg" alt="react"> 
-<img src="icons/NEXTJS.svg" alt="Next.js"> 
-<img src="icons/MobX.svg" alt="MobX"> 
-<img src="icons/REDUX.svg" alt="redux"> 
-<img src="icons/Jest.svg" alt="Jest"> 
-<img src="icons/GitHub.svg" alt="GitHub"> 
-<img src="icons/GIT.svg" alt="git">
+<img src="icons/TypeScript.svg" alt="ts"> <img src="icons/React.svg" alt="react"> <img src="icons/NEXTJS.svg" alt="Next.js"> <img src="icons/MobX.svg" alt="MobX"> <img src="icons/REDUX.svg" alt="redux"> <img src="icons/Jest.svg" alt="Jest"> <img src="icons/GitHub.svg" alt="GitHub"> <img src="icons/GIT.svg" alt="git">
 
 ### OTHER SKILLS:
 
-<img src="icons/HTML5.svg" alt="html"> 
-<img src="icons/CSS3.svg" alt="css"> 
-<img src="icons/SASS.svg" alt="sass"> 
-<img src="icons/JavaScript.svg" alt="js">  
-<img src="icons/ReactQuery.svg" alt="ReactQuery"> 
-<img src="icons/ReactRouter.svg" alt="ReactRouter"> 
-<img src="icons/Node.svg" alt="node"> 
-<img src="icons/Webpack.svg" alt="webpack">
-<img src="icons/Gulp.svg" alt="gulp"> 
-<img src="icons/Less.svg" alt="less"> 
-<img src="icons/TailwindCss.svg" alt="TailwindCss"> 
-<img src="icons/BOOTSTRAP.svg" alt="bootstrap"> 
-<img src="icons/React Bootstrap.svg" alt="React Bootstrap">
-<img src="icons/Wordpress3.svg" alt="Wordpress">
-<img src="icons/Figma.svg" alt="figma"> 
-<img src="icons/VSC.svg" alt="VSCode">
+<img src="icons/HTML5.svg" alt="html"> <img src="icons/CSS3.svg" alt="css"> <img src="icons/SASS.svg" alt="sass"> <img src="icons/JavaScript.svg" alt="js"> <img src="icons/ReactQuery.svg" alt="ReactQuery"> <img src="icons/ReactRouter.svg" alt="ReactRouter"> <img src="icons/Node.svg" alt="node"> <img src="icons/Webpack.svg" alt="webpack"> <img src="icons/Gulp.svg" alt="gulp"> <img src="icons/Less.svg" alt="less"> <img src="icons/TailwindCss.svg" alt="TailwindCss"> <img src="icons/BOOTSTRAP.svg" alt="bootstrap"> <img src="icons/React Bootstrap.svg" alt="React Bootstrap"> <img src="icons/Wordpress3.svg" alt="Wordpress"> <img src="icons/Figma.svg" alt="figma"> <img src="icons/VSC.svg" alt="VSCode">
 
 ---
 <br/>
